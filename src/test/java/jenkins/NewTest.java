@@ -39,6 +39,6 @@ public class NewTest
 	  Test_2 t=new Test_2();
 	  //int x=t.m1();
 	  
-	  System.out.println("Hello");
+	  //System.out.println("Hello");
   	}
 }
